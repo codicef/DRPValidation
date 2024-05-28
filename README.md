@@ -21,7 +21,7 @@ python3 pipeline.py <path_to_predictions> [--save_metrics]
 
 ### Example
 ```bash
-python prediction_analysis.py predictions/ --save_metrics
+python pipeline.py predictions/ --save_metrics
 ```
 Processes all files in `predictions/` directory and saves metrics.
 
