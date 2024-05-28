@@ -4,7 +4,7 @@ Drug Response Predictiors Validation Pipeline
 ## Overview
 This tool evaluates the performance of Drug Response Predictors. It processes CSV files containing predictions for drugs and cell lines, calculating metrics such as RMSE, R^2, Spearman, and Pearson correlations.
 
-The analysis follow the validation pipeline proposed in our paper ([link]), it analyse the performance globally, by drug and by cell line.
+The analysis follow the validation pipeline proposed in our paper (currently under review), it analyse the performance globally, by drug and by cell line.
 
 ## Requirements
 Requires Python 3 and libraries: pandas, numpy, scipy, scikit-learn. Install with pip:
